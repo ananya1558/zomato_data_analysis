@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Zomato Data Analysis Using Python
 
 
@@ -96,3 +97,19 @@ GitHub: \[ananya1558](https://github.com/ananya1558)
 
 
 
+=======
+#Zomato Data Analysis
+
+
+Project Overview
+This project focuses on analyzing Zomato restaurant data to uncover insights related to restaurant ratings, cuisines, pricing, online delivery, and customer preferences.  
+Using Python-based data analysis and visualization techniques, the project identifies business trends and patterns that can help improve decision-making in the food industry.
+
+Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+>>>>>>> af2f41470c3f665e3e4b5110eb7cbeaee3135381
